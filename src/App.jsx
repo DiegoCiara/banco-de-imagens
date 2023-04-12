@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Image1 from '/src/assets/1.png'
+import Image1 from '/src/assets/1.svg'
 import './App.css'
 
 function App() {
